@@ -1,0 +1,6 @@
+{
+    "command": ".\\jiotv_go.exe run",
+    "path": "C:\\Users\\havit\\.jiotv_go",
+    "software_path": "C:\\Users\\havit\\kodi\\kodi.exe",
+    "url": "http://localhost:5001/live/144.m3u8"
+}
